@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=harbour-webpirate_test
+Exec=harbour-webpirate_test %U
+Name=WebPirate_test
