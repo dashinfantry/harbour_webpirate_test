@@ -25,6 +25,8 @@ Features
 
 Translation
 -----
+Some transifex is planned to be renewed, not sure how exactly yet
 You can translate WebPirate to your language [here](https://www.transifex.com/projects/p/webpirate/).
 
+Original Dax's
 [Donations](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=SQFHRE6MHAPUC&lc=GB&item_name=Donazione%20per%20sviluppo%20WebPirate&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted) are welcome.
