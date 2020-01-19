@@ -31,6 +31,7 @@ Column
         linkmenu.url = url;
         linkmenu.title = title;
         linkmenu.src = src;
+        linkmenu.usedmodel = model;
         if (src === ''){
             linkmenu.footeritemscount = 2;
             linkmenu.imgbool = false
@@ -47,8 +48,6 @@ Column
                 linkmenu.imgonly = false;
              }
         }
-
-        linkmenu.usedmodel = model;
         linkmenu.active = 0;
         linkmenu.visible = true;
         linkmenu.opacity = 1.0;
